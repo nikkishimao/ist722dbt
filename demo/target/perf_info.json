@@ -1,12 +1,16 @@
 {
-    "path_count": 145,
+    "path_count": 146,
     "parsed_path_count": 0,
     "static_analysis_path_count": 0,
     "static_analysis_parsed_path_count": 0,
     "is_partial_parse_enabled": true,
     "is_static_analysis_enabled": true,
-    "read_files_elapsed": 0.016094342805445194,
-    "load_all_elapsed": 0.15791298728436232,
+    "read_files_elapsed": 0.0693296268582344,
+    "load_macros_elapsed": 0.00036827847361564636,
+    "parse_project_elapsed": 3.909226506948471e-05,
+    "patch_sources_elapsed": 4.5727938413619995e-06,
+    "process_manifest_elapsed": 0.0007719388231635094,
+    "load_all_elapsed": 0.13104996643960476,
     "projects": [
         {
             "project_name": "my_new_project",
